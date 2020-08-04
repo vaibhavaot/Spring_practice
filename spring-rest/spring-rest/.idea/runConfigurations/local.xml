@@ -1,0 +1,29 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="local" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+    <option name="adminPort" value="8005" />
+    <option name="allowRunningInParallel" value="false" />
+    <option name="contextPath" value="/spring-rest" />
+    <option name="docBase" value="$PROJECT_DIR$/src/main/java/academy/ennate" />
+    <option name="envOptions">
+      <map />
+    </option>
+    <option name="moduleName" />
+    <option name="passParentEnvironmentVariables" value="true" />
+    <option name="port" value="8080" />
+    <option name="selectedOptions">
+      <set />
+    </option>
+    <option name="tomcatInfo">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 9.0.37" />
+        <option name="number" value="0" />
+        <option name="path" value="$USER_HOME$/apache-tomcat-9.0.37" />
+        <option name="version" value="9.0.37.0" />
+      </TomcatInfo>
+    </option>
+    <option name="vmOptions" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
